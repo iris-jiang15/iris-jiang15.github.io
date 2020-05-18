@@ -21,7 +21,7 @@ footer-links:
   email: m64jiang@gmail.com
   facebook:
   flickr:
-  github: my-jiang/my-jiang.github.io
+  github: my-jiang
   instagram:
   linkedin: iris-jiang1
   pinterest:
@@ -41,7 +41,7 @@ google_analytics: UA-154991687-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://develop.iris-jiang.com
+url: http://www.iris-jiang.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -54,7 +54,7 @@ nav_header:
 - title: Home
   url: /
 - title: Resume/CV
-  url: /resume/resume.pdf
+  url: /resume-cv/
 - title: Projects
   url: /projects/
 - title: Lec-Notes
