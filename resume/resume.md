@@ -8,7 +8,7 @@ Please find my detailed CV [here](/resume.pdf).
 
 
 
-#### Education
+## Education
 
 **[University of Waterloo](https://uwaterloo.ca/)**
 
@@ -19,7 +19,7 @@ Please find my detailed CV [here](/resume.pdf).
 
 
 
-#### Experiences
+## Experiences
 
 **[University of Waterloo](https://uwaterloo.ca/)**
 
